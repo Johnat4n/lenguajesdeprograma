@@ -1,0 +1,28 @@
+body{
+    background-image: url("/imagenes/fondo\ blanco.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-align: center;
+    
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-align: center;
+}
+h3{
+    background-color: rgb(233, 240, 240);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-align: justify;
+    text-shadow:rgb(46, 109, 109);
+}
+p{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: dotted;
+    
+}
